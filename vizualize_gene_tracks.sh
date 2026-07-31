@@ -1,6 +1,7 @@
 #!/bin/bash
 # visualize_gene_tracks.sh
 # Picks a random subset of modified genes, then plots a Lollipop track view of selected genes
+# requires output from analyze_genes.sh
 
 set -uo pipefail
 
